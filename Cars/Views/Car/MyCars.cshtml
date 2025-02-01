@@ -1,0 +1,28 @@
+﻿@using Cars.Helpers
+
+@{
+    ViewData["Title"] = "Vroom";
+    ViewData["Controller"] = "Car";
+    ViewData["Action"] = "MyCars";
+}
+
+<h2 class="text-center mb-4">My Cars</h2>
+
+<div class="row">
+    @foreach (var car in Model.Data)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@car.Make.Name @car.Model.Name</h5>
+                    <p class="card-text">
+                        Year: <strong>@car.Year</strong><br>
+                        Price: <strong>@car.Price @car.Currency</strong>
+                    </p>
+                    <a asp-action="Edit" asp-route-id="@car.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@car.Id" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

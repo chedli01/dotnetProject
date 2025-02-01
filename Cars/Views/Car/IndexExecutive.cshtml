@@ -1,0 +1,18 @@
+﻿
+@model cloudscribe.Pagination.Models.PagedResult<Cars.Models.Car>
+
+@{
+    ViewData["Title"] = "Executive View";
+}
+
+<h2>Executive View</h2>
+
+@foreach (var car in Model.Data)
+{
+    <div>
+        <h3>@car.Make.Name @car.Model.Name</h3>
+        <p>Year: @car.Year | Price: @car.Price @car.Currency</p>
+        <a asp-action="Edit" asp-route-id="@car.Id">Edit</a>
+        <a asp-action="Delete" asp-route-id="@car.Id">Delete</a>
+    </div>
+}

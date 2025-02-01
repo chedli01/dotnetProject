@@ -1,0 +1,94 @@
+﻿@model Cars.Models.ViewModels.CarViewModel
+@using Cars.Extensions
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<h2 style='color : steelblue'>Add Car</h2>
+<form method="post" enctype="multipart/form-data" action="Create">
+    <Input type="hidden" asp-for="Makes" />
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Make</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.MakeId" asp-items="Model.Makes.ToSelectListItem()">
+            </select>
+        </div>
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Image Path</h5>
+        </div>
+        <div class="col-auto">
+            <input class="form-control" asp-for="Car.ImagePath">
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Model</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.ModelId" asp-items="Model.Models.ToSelectListItem()">
+            </select>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Year</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Year" /> 
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Mileage</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Mileage" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Price</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Price" />
+        </div>
+        <div class="col-1">
+            <h5 class="text-end text-secondary mt-1">Currency</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.Currency" asp-items="Model.Currencies.ToSelectListItem()"> </select>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">features</h5>
+        </div>
+        <div class="col-4">
+            <textarea class="form-control" asp-for="Car.Features"> </textarea>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Seller Phone</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.SellerPhone" />
+        </div>
+    </div>
+
+
+    <div class="row mt-4">
+        <span class="col-2 text-end pe-0"><input type="submit" class="btn btn-primary" value="Create" style="background-color : steelblue" /></span>
+        <span class="col-2"><a asp-action="Index" class="btn btn-success">Back</a></span>
+    </div>
+</form>

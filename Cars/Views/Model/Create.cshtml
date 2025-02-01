@@ -1,0 +1,32 @@
+﻿@model Cars.Models.ViewModels.ModelViewModel
+@using Cars.Extensions
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<h2 style='color : steelblue'>Add Model of vehicle</h2>
+<form method="post" action="Create">
+    <Input type="hidden" asp-for="Makes" />
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Makes</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Model.MakeFK" asp-items="Model.Makes.ToSelectListItem()" >
+            </select>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Name</h5>
+        </div>
+        <div class="col-4">
+            <input asp-for="@Model.Model.Name" class="form-control" />
+        </div>
+    </div> 
+    <div class="row mt-4">
+        <span class="col-2 text-end pe-0"><input type="submit" class="btn btn-primary" value="Create" style="background-color : steelblue" /></span>
+        <span class="col-2"><a asp-action="Index" class="btn btn-success">Back</a></span>
+    </div>
+</form>

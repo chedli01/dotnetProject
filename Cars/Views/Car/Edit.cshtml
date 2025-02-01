@@ -1,0 +1,191 @@
+﻿@* @model Cars.Models.ViewModels.CarViewModel
+@using Cars.Extensions
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<br />
+<h2 style='color : steelblue'>Edit Car</h2>
+<form method="post" enctype="multipart/form-data" action="Create">
+    <input hidden asp-for="Car.Id" />
+    <input hidden asp-for="Car.ImagePath"/> 
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Make</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.MakeId" asp-items="Model.Makes.ToSelectListItem()">
+            </select>
+        </div>
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Image Path</h5>
+        </div>
+        <div class="col-auto">
+            <input class="form-control" type="file" name="files" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Model</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.ModelId" asp-items="Model.Models.ToSelectListItem()">
+            </select>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Year</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Year" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Mileage</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Mileage" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Price</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.Price" />
+        </div>
+        <div class="col-1">
+            <h5 class="text-end text-secondary mt-1">Currency</h5>
+        </div>
+        <div class="col-4">
+            <select class="form-select" asp-for="Car.Currency" asp-items="Model.Currencies.ToSelectListItem()"> </select>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">features</h5>
+        </div>
+        <div class="col-4">
+            <textarea class="form-control" asp-for="Car.Features"> </textarea>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Seller Name</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.SellerName" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Seller Email</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.SellerEmail" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-2">
+            <h5 class="text-end text-secondary mt-1">Seller Phone</h5>
+        </div>
+        <div class="col-4">
+            <input class="form-control" asp-for="Car.SellerPhone" />
+        </div>
+    </div>
+
+
+    <div class="row mt-4">
+        <span class="col-2 text-end pe-0"><input type="submit" class="btn btn-primary" value="Update" style="background-color : steelblue" /></span>
+        <span class="col-2"><a asp-action="Index" class="btn btn-success">Back</a></span>
+    </div>
+</form> *@
+@model Cars.Models.ViewModels.CarViewModel
+
+@{
+    ViewData["Title"] = "Edit Car";
+}
+
+<h2>Edit Car</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data" >
+    <div class="form-group">
+        <label asp-for="Car.MakeId">Make</label>
+        <select asp-for="Car.MakeId" asp-items="@(new SelectList(Model.Makes, "Id", "Name"))" class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.ModelId">Model</label>
+        <select asp-for="Car.ModelId" asp-items="@(new SelectList(Model.Models, "Id", "Name"))" class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.Year">Year</label>
+        <input asp-for="Car.Year" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.Mileage">Mileage</label>
+        <input asp-for="Car.Mileage" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.Price">Price</label>
+        <input asp-for="Car.Price" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.Features">Features</label>
+        <textarea asp-for="Car.Features" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.SellerName">Seller Name</label>
+        <input asp-for="Car.SellerName" class="form-control" disabled />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.SellerEmail">Seller Email</label>
+        <input asp-for="Car.SellerEmail" class="form-control" disabled />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.SellerPhone">Seller Phone</label>
+        <input asp-for="Car.SellerPhone" class="form-control" />
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Car.Currency">Currency</label>
+        <input asp-for="Car.Currency" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Car.ImagePath">Current Image</label>
+        @if (Model.Car.ImagePath != null)
+        {
+            <img src="~/@Model.Car.ImagePath" alt="Car Image" style="max-width: 200px;" />
+        }
+        <input type="file" name="files" class="form-control" />
+    </div>
+
+    <input type="hidden" asp-for="Car.Id" />
+    
+
+
+
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

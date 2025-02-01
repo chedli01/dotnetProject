@@ -1,0 +1,93 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Cars.Helpers
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="../wwwroot/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../wwwroot/favicon.ico" type="image/x-icon" />
+    <title>@ViewData["Title"] - Cars</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/lib/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/lib/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/lib/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/lib/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/lib/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/lib/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/lib/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Cars.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header id="header" class="fixed-top " style="background-color:#37517e ; height:9.5%">
+        <div class="container d-flex align-items-center">
+
+            <a asp-controller="Home" asp-action="Index" class="logo me-auto"><img src="~/lib/images/logo.png" alt="AutoHaven" class="img-fluid"></a>
+            <h1 class="logo me-auto"><a asp-controller="Home" asp-action="Index">AutoHaven</a></h1>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a href="@Url.Action("Index", "Home")#">Home</a></li>
+                    <li><a class="nav-link scrollto" href="@Url.Action("Index", "Home")#about">About</a></li>
+                    <li><a class="nav-link scrollto" href="@Url.Action("Index", "Home")#services">Services</a></li>
+                    <li><a class="nav-link scrollto" href="@Url.Action("Index", "Home")#portfolio">Gallery</a></li>
+                    <li><a class="nav-link scrollto" href="@Url.Action("Index", "Home")#contact">Contact</a></li>
+                    <li>
+                        <a class="nav-link scrollto" href="@((User.IsInRole("Admin")) ? Url.Action("AdminIndex", "Car") : Url.Action("Index", "Car"))">
+                            Cars
+                        </a>
+                    </li>
+
+                    @if (SignInManager.IsSignedIn(User))
+
+                    {
+                        <li class="dropdown">
+                            <a href="#"><span>Masters</span> <i class="bi bi-chevron-down"></i></a>
+                            <ul>
+                                <li><a asp-controller="Make" asp-action="Index">Makes</a></li>
+                                <li><a asp-controller="Model" asp-action="Index">Models</a></li>
+                            </ul>
+                        </li>
+                        @if (User.IsInRole("Executive"))
+
+                        {
+                            <li><a class="nav-link scrollto" href="@Url.Action("MyCars", "Car")">My Cars</a></li>
+                        }
+                    }
+                </ul>
+                <partial name="_LoginPartial" />
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+        </div>
+    </header>
+    <div style="margin-top:4%">
+        @RenderBody()
+        <hr />
+    </div>
+    <footer id="footer" style="bottom:0;width:100%">
+        <div class="container footer-bottom clearfix">
+            <div class="copyright">
+                &copy; Copyright <strong><span>AutoHaven</span></strong>. All Rights Reserved
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/b17ae2511b.js" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/vendor/aos/aos.js"></script>
+    <script src="~/lib/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="~/lib/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/lib/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="~/lib/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="~/lib/vendor/php-email-form/validate.js"></script>
+    <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

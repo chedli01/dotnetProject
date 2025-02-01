@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Cars.Models.Make>
+@{
+    ViewData["Title"] = "Vroom";
+}
+
+<br />
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2 style='color : steelblue'>Makes of Cars</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-controller="Make" asp-action="Create" style="background-color : steelblue"> <i class="fa-solid fa-motorcycle"></i> &nbsp; Add new Make</a>
+        </div>
+    </div>
+    <br/>
+    <div class="col-12">    
+        <table class="table table-striped border">
+        <tr class="table-primary">
+            <th>
+                @Html.DisplayNameFor(m=>m.Name)
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m=>item.Name)
+                </td>
+                    <partial name="_TableButtonPartialofMakes" model="item.Id" />
+            </tr>
+        }
+    </table>
+    </div>
+
+</div>

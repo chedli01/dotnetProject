@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Cars.Helpers
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="nav navbar-nav navbar-right">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="dropdown">
+            <a href="#"><img src="~/lib/images/profile.png" height="30" title="profile" /><i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><span class="dropdown-item-text ms-3" >Hi @UserManager.GetUserAsync(User).Result.UserName !</span></li>
+                <li class="ms-0"><a id="manage" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage"><span><img src="~/lib/images/gear.png" height="25" title="logout" /><span>Manage Profile</span></span></a></li>
+                @if (User.IsInRole(Roles.Admin))
+                {
+                    <li><a asp-area="Identity" asp-page="/Account/Register"><span><img src="~/lib/images/add.png" height="25" title="logout" /> Add Exec</span></a></li>
+                    <!--uncomment to add manage users feature-->
+                    <!--<li><a asp-controller="User" asp-action="Index">Manager Users</a></li>-->
+                }
+                    <li class="ms-3 ps-1">
+                        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                        <button type="submit" class="nav-link btn btn-link text-dark">
+                            <span><img src="~/lib/images/shutdown.png" height="25" title="logout" /><span> Log out</span></span>
+                        </button>
+                        </form>
+                </li>
+            </ul>
+        </li>
+
+    }
+    else
+    {
+        <li class="nav-item active">
+            <a class="getstarted scrollto" asp-area="Identity" asp-page="/Account/Login">Login</a>
+        </li>
+    }
+</ul>
