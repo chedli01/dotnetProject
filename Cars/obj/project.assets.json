@@ -11256,11 +11256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\Cars.csproj",
+      "projectPath": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\Cars.csproj",
       "packagesPath": "C:\\Users\\GMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\",
+      "outputPath": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GMI\\AppData\\Roaming\\NuGet\\NuGet.Config",

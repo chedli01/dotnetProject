@@ -13,7 +13,7 @@ namespace Cars.Services
         public void SendEmail(string fromName, string fromEmail, string subject, string messageBody)
         {
             var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("Car selling inbox", fromEmail));
+            message.From.Add(new MailboxAddress("AutoHaven", fromEmail));
             message.To.Add(new MailboxAddress(fromName, "chedli.masmoudi01@gmail.com"));
             message.Subject = subject;
 

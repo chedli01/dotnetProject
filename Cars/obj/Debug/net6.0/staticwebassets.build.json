@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+sEGv08RCFpMB0zt8abaqlT7WCqD3uVhUPqhOuVmAIc=",
+  "Hash": "X4msi2QxbXgOZXEYtC9IfXmzoIcOoK/og8pEwZksnnY=",
   "Source": "Cars",
   "BasePath": "_content/Cars",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Cars\\wwwroot",
       "Source": "Cars",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\GMI\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.12\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
       "SourceId": "Cars",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Cars",
       "RelativePath": "Cars#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "FwJ5y6VMsgkbyzBoZNJUyhYCAVY3ChnRpPa9NV1bjLY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css"
+      "OriginalItemSpec": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
       "SourceId": "Cars",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Cars",
       "RelativePath": "Cars#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "FwJ5y6VMsgkbyzBoZNJUyhYCAVY3ChnRpPa9NV1bjLY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\favicon.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "images/bike/9#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bike\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/add#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\add.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/front-end#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\front-end.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/gear#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\gear.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/handshake#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\handshake.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/location#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\location.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/point#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\point.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/portfolio/classic-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio\\classic-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/portfolio/classic-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio\\classic-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/portfolio/classic-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio\\classic-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/portfolio/vespa-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio\\vespa-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/portfolio/vespa-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio\\vespa-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/profile#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\profile.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/search#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\search.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/shutdown#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\shutdown.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/user#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\user.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/why-us#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\why-us.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/images/x#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\images\\x.png"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3041,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -3062,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3083,10 +3083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3104,10 +3104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3125,10 +3125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3146,10 +3146,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -3167,10 +3167,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
+      "Identity": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
       "SourceId": "Cars",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\",
       "BasePath": "_content/Cars",
       "RelativePath": "lib/videos/Tour#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -3191,7 +3191,7 @@
   "Endpoints": [
     {
       "Route": "Cars.3pxad7t3im.bundle.scp.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3212,7 +3212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3236,7 +3236,7 @@
     },
     {
       "Route": "Cars.3pxad7t3im.styles.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3257,7 +3257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3281,7 +3281,7 @@
     },
     {
       "Route": "Cars.bundle.scp.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3302,7 +3302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3318,7 +3318,7 @@
     },
     {
       "Route": "Cars.styles.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Cars.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3339,7 +3339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +3355,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +3376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "css/site.m7ystl2o7t.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3413,7 +3413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +3437,7 @@
     },
     {
       "Route": "css/style.0istccanuv.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3458,7 +3458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3482,7 +3482,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3503,7 +3503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3519,7 +3519,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3540,7 +3540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +3556,7 @@
     },
     {
       "Route": "favicon.v0wt2fulvo.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3577,7 +3577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5821,7 +5821,7 @@
     },
     {
       "Route": "images/bike/1.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5842,7 +5842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5858,7 +5858,7 @@
     },
     {
       "Route": "images/bike/1.pbg7s95nzb.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5879,7 +5879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5903,7 +5903,7 @@
     },
     {
       "Route": "images/bike/2.ef0wv87zfy.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5924,7 +5924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5948,7 +5948,7 @@
     },
     {
       "Route": "images/bike/2.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5969,7 +5969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5985,7 +5985,7 @@
     },
     {
       "Route": "images/bike/3.hzars4ejpc.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6006,7 +6006,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6030,7 +6030,7 @@
     },
     {
       "Route": "images/bike/3.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6051,7 +6051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6067,7 +6067,7 @@
     },
     {
       "Route": "images/bike/5.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6088,7 +6088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6104,7 +6104,7 @@
     },
     {
       "Route": "images/bike/5.s5ll5aj7xs.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6125,7 +6125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6149,7 +6149,7 @@
     },
     {
       "Route": "images/bike/7.dobbdf307k.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6170,7 +6170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6194,7 +6194,7 @@
     },
     {
       "Route": "images/bike/7.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6215,7 +6215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6231,7 +6231,7 @@
     },
     {
       "Route": "images/bike/8.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6252,7 +6252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6268,7 +6268,7 @@
     },
     {
       "Route": "images/bike/8.w9f3749jd2.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6289,7 +6289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6313,7 +6313,7 @@
     },
     {
       "Route": "images/bike/9.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6334,7 +6334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6350,7 +6350,7 @@
     },
     {
       "Route": "images/bike/9.wtsp6pe2mk.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6395,7 +6395,7 @@
     },
     {
       "Route": "js/main.c81dtebhws.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6416,7 +6416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6440,7 +6440,7 @@
     },
     {
       "Route": "js/main.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6461,7 +6461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6477,7 +6477,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6498,7 +6498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6522,7 +6522,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6543,7 +6543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6559,7 +6559,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6580,7 +6580,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6596,7 +6596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6617,7 +6617,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6633,7 +6633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6654,7 +6654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6678,7 +6678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6699,7 +6699,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6723,7 +6723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6744,7 +6744,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6760,7 +6760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6781,7 +6781,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6805,7 +6805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6826,7 +6826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6842,7 +6842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6863,7 +6863,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6887,7 +6887,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6908,7 +6908,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6924,7 +6924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6945,7 +6945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6969,7 +6969,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6990,7 +6990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7006,7 +7006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7027,7 +7027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7051,7 +7051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7072,7 +7072,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7088,7 +7088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7109,7 +7109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7125,7 +7125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7146,7 +7146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7170,7 +7170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7191,7 +7191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7215,7 +7215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7236,7 +7236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7252,7 +7252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7273,7 +7273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7297,7 +7297,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7318,7 +7318,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7334,7 +7334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7355,7 +7355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7371,7 +7371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7392,7 +7392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7408,7 +7408,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7429,7 +7429,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7453,7 +7453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7474,7 +7474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7498,7 +7498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7519,7 +7519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7543,7 +7543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7564,7 +7564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7588,7 +7588,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7609,7 +7609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7625,7 +7625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7646,7 +7646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7670,7 +7670,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7691,7 +7691,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7707,7 +7707,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7728,7 +7728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7744,7 +7744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7765,7 +7765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7781,7 +7781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7802,7 +7802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7826,7 +7826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7847,7 +7847,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7871,7 +7871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7892,7 +7892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7908,7 +7908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7929,7 +7929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7953,7 +7953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7974,7 +7974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7990,7 +7990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8011,7 +8011,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8035,7 +8035,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8056,7 +8056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8072,7 +8072,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8093,7 +8093,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8109,7 +8109,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8130,7 +8130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8154,7 +8154,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8175,7 +8175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8191,7 +8191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8212,7 +8212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8236,7 +8236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8257,7 +8257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8273,7 +8273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8294,7 +8294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8310,7 +8310,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8331,7 +8331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8355,7 +8355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8376,7 +8376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8392,7 +8392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8413,7 +8413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8437,7 +8437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8458,7 +8458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8482,7 +8482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8503,7 +8503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8527,7 +8527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8548,7 +8548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8564,7 +8564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8585,7 +8585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8609,7 +8609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8630,7 +8630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8646,7 +8646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8667,7 +8667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8691,7 +8691,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8712,7 +8712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8728,7 +8728,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8749,7 +8749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8773,7 +8773,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8794,7 +8794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8810,7 +8810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8831,7 +8831,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8855,7 +8855,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8876,7 +8876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8892,7 +8892,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8913,7 +8913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8937,7 +8937,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8958,7 +8958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8974,7 +8974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8995,7 +8995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9019,7 +9019,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9040,7 +9040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9064,7 +9064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9085,7 +9085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9101,7 +9101,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9122,7 +9122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9146,7 +9146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9167,7 +9167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9183,7 +9183,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9204,7 +9204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9228,7 +9228,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9249,7 +9249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9273,7 +9273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9294,7 +9294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9310,7 +9310,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9331,7 +9331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9355,7 +9355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9376,7 +9376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9392,7 +9392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9413,7 +9413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9437,7 +9437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9458,7 +9458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9474,7 +9474,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9495,7 +9495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9519,7 +9519,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9540,7 +9540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9556,7 +9556,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9577,7 +9577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9593,7 +9593,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9614,7 +9614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9638,7 +9638,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9659,7 +9659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9675,7 +9675,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9696,7 +9696,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9720,7 +9720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9741,7 +9741,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9757,7 +9757,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9778,7 +9778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9794,7 +9794,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9815,7 +9815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9839,7 +9839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9860,7 +9860,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9884,7 +9884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9905,7 +9905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9921,7 +9921,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9942,7 +9942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9966,7 +9966,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9987,7 +9987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10003,7 +10003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10024,7 +10024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10048,7 +10048,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10069,7 +10069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10085,7 +10085,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10106,7 +10106,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10122,7 +10122,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10143,7 +10143,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10167,7 +10167,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10188,7 +10188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10204,7 +10204,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10225,7 +10225,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10249,7 +10249,7 @@
     },
     {
       "Route": "lib/images/add.74mnvhdroy.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10270,7 +10270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10294,7 +10294,7 @@
     },
     {
       "Route": "lib/images/add.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10315,7 +10315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10331,7 +10331,7 @@
     },
     {
       "Route": "lib/images/front-end.75kxwaq95x.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10352,7 +10352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10376,7 +10376,7 @@
     },
     {
       "Route": "lib/images/front-end.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10397,7 +10397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10413,7 +10413,7 @@
     },
     {
       "Route": "lib/images/gear.8j1t1mmj7t.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10434,7 +10434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10458,7 +10458,7 @@
     },
     {
       "Route": "lib/images/gear.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10479,7 +10479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10495,7 +10495,7 @@
     },
     {
       "Route": "lib/images/handshake.kje4b4c5lx.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10516,7 +10516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10540,7 +10540,7 @@
     },
     {
       "Route": "lib/images/handshake.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10561,7 +10561,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10577,7 +10577,7 @@
     },
     {
       "Route": "lib/images/location.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10598,7 +10598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10614,7 +10614,7 @@
     },
     {
       "Route": "lib/images/location.xpqth7u1ia.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10635,7 +10635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10659,7 +10659,7 @@
     },
     {
       "Route": "lib/images/logo.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10680,7 +10680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10696,7 +10696,7 @@
     },
     {
       "Route": "lib/images/logo.v0wt2fulvo.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10717,7 +10717,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10741,7 +10741,7 @@
     },
     {
       "Route": "lib/images/point.6hq6aj2juq.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10762,7 +10762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10786,7 +10786,7 @@
     },
     {
       "Route": "lib/images/point.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10807,7 +10807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10823,7 +10823,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-1.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10844,7 +10844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10860,7 +10860,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-1.snlpi2ft49.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10881,7 +10881,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10905,7 +10905,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-2.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10926,7 +10926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10942,7 +10942,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-2.xr2da6lgq8.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10963,7 +10963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10987,7 +10987,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-4.4trhrnk3c3.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11008,7 +11008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11032,7 +11032,7 @@
     },
     {
       "Route": "lib/images/portfolio/classic-4.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11053,7 +11053,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11069,7 +11069,7 @@
     },
     {
       "Route": "lib/images/portfolio/vespa-1.5uo9nq9bn4.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11090,7 +11090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11114,7 +11114,7 @@
     },
     {
       "Route": "lib/images/portfolio/vespa-1.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11135,7 +11135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11151,7 +11151,7 @@
     },
     {
       "Route": "lib/images/portfolio/vespa-2.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11172,7 +11172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11188,7 +11188,7 @@
     },
     {
       "Route": "lib/images/portfolio/vespa-2.x2frp0ro5f.jpg",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11209,7 +11209,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11233,7 +11233,7 @@
     },
     {
       "Route": "lib/images/profile.i4sw2f0nnx.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11254,7 +11254,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11278,7 +11278,7 @@
     },
     {
       "Route": "lib/images/profile.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11299,7 +11299,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11315,7 +11315,7 @@
     },
     {
       "Route": "lib/images/search.7utz6r387w.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11336,7 +11336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11360,7 +11360,7 @@
     },
     {
       "Route": "lib/images/search.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11381,7 +11381,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11397,7 +11397,7 @@
     },
     {
       "Route": "lib/images/shutdown.nxv38hvysr.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11418,7 +11418,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11442,7 +11442,7 @@
     },
     {
       "Route": "lib/images/shutdown.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11463,7 +11463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11479,7 +11479,7 @@
     },
     {
       "Route": "lib/images/user.86h5fx5d0e.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11500,7 +11500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11524,7 +11524,7 @@
     },
     {
       "Route": "lib/images/user.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11545,7 +11545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11561,7 +11561,7 @@
     },
     {
       "Route": "lib/images/why-us.6cautqvhr3.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11582,7 +11582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11606,7 +11606,7 @@
     },
     {
       "Route": "lib/images/why-us.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11627,7 +11627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11643,7 +11643,7 @@
     },
     {
       "Route": "lib/images/x.2u99u7wavm.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11664,7 +11664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11688,7 +11688,7 @@
     },
     {
       "Route": "lib/images/x.png",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11709,7 +11709,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11725,7 +11725,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11746,7 +11746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11770,7 +11770,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11791,7 +11791,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11807,7 +11807,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11828,7 +11828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11844,7 +11844,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.mt9h37ga6s.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11865,7 +11865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11889,7 +11889,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11910,7 +11910,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11926,7 +11926,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11947,7 +11947,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11971,7 +11971,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11992,7 +11992,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12008,7 +12008,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12029,7 +12029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12045,7 +12045,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12066,7 +12066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12090,7 +12090,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12111,7 +12111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12135,7 +12135,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12156,7 +12156,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12180,7 +12180,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12201,7 +12201,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12217,7 +12217,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12238,7 +12238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12262,7 +12262,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12283,7 +12283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12299,7 +12299,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12320,7 +12320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12336,7 +12336,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12357,7 +12357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12381,7 +12381,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12402,7 +12402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12418,7 +12418,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12439,7 +12439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12463,7 +12463,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12484,7 +12484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12500,7 +12500,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12521,7 +12521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12537,7 +12537,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12558,7 +12558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12582,7 +12582,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12603,7 +12603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12627,7 +12627,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12648,7 +12648,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12672,7 +12672,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12693,7 +12693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12709,7 +12709,7 @@
     },
     {
       "Route": "lib/vendor/bootstrap-icons/bootstrap-icons.json",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12730,7 +12730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12746,7 +12746,7 @@
     },
     {
       "Route": "lib/vendor/bootstrap-icons/bootstrap-icons.yr36dq6dlc.json",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12767,7 +12767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12791,7 +12791,7 @@
     },
     {
       "Route": "lib/videos/Tour.mp4",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12812,7 +12812,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12828,7 +12828,7 @@
     },
     {
       "Route": "lib/videos/Tour.z0dd1k52ps.mp4",
-      "AssetFile": "C:\\Users\\GMI\\Desktop\\carSelling\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\carsell\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12849,7 +12849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 18:08:07 GMT"
+          "Value": "Mon, 03 Feb 2025 12:21:09 GMT"
         },
         {
           "Name": "Cache-Control",

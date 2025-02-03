@@ -9,8 +9,12 @@
 @foreach (var car in Model.Data)
 {
     <div>
+        <img src="@car.ImagePath" alt="@car.Make.Name @car.Model.Name" style="width: 200px; height: auto;" />
         <h3>@car.Make.Name @car.Model.Name</h3>
         <p>Year: @car.Year | Price: @car.Price @car.Currency</p>
+         <a class="btn btn-primary" asp-controller="Car" asp-action="Buy" asp-route-id="@car.Id" asp-route-buyerEmail="@User.Identity.Name" style="background-color: steelblue">
+                    Make an offer
+                </a>
     </div>
 }
 

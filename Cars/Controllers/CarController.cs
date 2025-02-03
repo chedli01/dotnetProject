@@ -14,6 +14,9 @@ using Microsoft.AspNetCore.Http;
 using Cars.Views.Car;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
+using MailKit.Net.Smtp;
+using MimeKit;
+using System.Linq;
 
 namespace Cars.Controllers
 {
@@ -329,5 +332,48 @@ namespace Cars.Controllers
 
             return View("Index", pagedResult); // Reusing the "Index" view for Executive users
         }
+
+         public IActionResult Buy(int id,string buyerEmail)
+    {
+        var car = vroomDbContext.Cars.FirstOrDefault(c => c.Id == id);
+        if (car == null)
+        {
+            return NotFound();
+        }
+        var user = vroomDbContext.ApplicationUsers.FirstOrDefault(c => c.UserName == buyerEmail);
+        var email = user?.Email;  // This will fetch the email if the user is found
+
+
+        // Call the email sending function
+        SendEmailToSeller(car.SellerEmail, car.Make.Name, car.Model.Name, email);
+
+        // Redirect to a success page or return a view
+        return RedirectToAction("Success", "Home");
+
+    }   
+
+    private void SendEmailToSeller(string sellerEmail, string make, string model,string buyerEmail)
+    {
+        var emailMessage = new MimeMessage();
+        emailMessage.From.Add(new MailboxAddress("AutoHaven", "chedli.masmoudi97@gmail.com"));
+        emailMessage.To.Add(new MailboxAddress("", sellerEmail));
+        emailMessage.Subject = $"New offer for your {make} {model}";
+        emailMessage.Body = new TextPart("plain")
+        {
+              Text = $"You have received a new offer for your {make} {model} from a buyer. \n\n" +
+               $"Please contact the buyer at this email: {buyerEmail}"
+        };
+
+        using (var client = new SmtpClient())
+        {
+            client.Connect("smtp.gmail.com", 587, MailKit.Security.SecureSocketOptions.StartTls);
+            client.Authenticate("chedli.masmoudi97@gmail.com", "ogmy chwq ryqn qyid");
+
+            client.Send(emailMessage);
+            client.Disconnect(true);
+        }
+    }
+
+          
     }
 }
