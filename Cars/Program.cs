@@ -11,7 +11,7 @@ var connectionString = builder.Configuration.GetConnectionString("Default") ?? t
 
 // Add services to the container.
 
-builder.Services.AddDbContext<VroomDbContext>(options => options.UseSqlServer("server=(localdb)\\MSSQLLocalDB ; database=vroom ; integrated security=True ; TrustServerCertificate=True"));
+builder.Services.AddDbContext<VroomDbContext>(options => options.UseSqlServer("server=(localdb)\\mssqllocaldb ; database=vroomvroom ; integrated security=True ; TrustServerCertificate=True"));
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<VroomDbContext>()
