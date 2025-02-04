@@ -182,44 +182,46 @@ namespace Cars.Controllers
         // Action for Executives to Save a New Car
         [Authorize(Roles = "Executive,Admin")]
         [HttpPost, ActionName("Create")]
-        public async Task<IActionResult> CreatePost(IFormFile file)
+        [HttpPost]
+        public async Task<IActionResult> CreatePost(CarViewModel CarVM, IFormFile file)
         {
-            if (file != null)
+            if (file != null && file.Length > 0)
             {
+                // Define folder to store images
                 string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
-                string uniqueFileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+
+                // Ensure the directory exists
+                if (!Directory.Exists(uploadsFolder))
+                {
+                    Directory.CreateDirectory(uploadsFolder);
+                }
+
+                // Generate unique filename
+                string uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                 string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                // Save file
                 using (var fileStream = new FileStream(filePath, FileMode.Create))
                 {
                     await file.CopyToAsync(fileStream);
                 }
+
+                // Save path in model
                 CarVM.Car.ImagePath = "/images/" + uniqueFileName;
             }
 
-            //var us = User;
+            // Assign the current user's info
+            CarVM.Car.SellerName = User.Identity.Name;
+            CarVM.Car.SellerEmail = User.FindFirst(ClaimTypes.Email)?.Value;
 
-            // Retrieve the current logged-in user
-            //var user = await _userManager.GetUserAsync(User);  // Access the current user
-
-            // Assign the current user's info to the Car object
-            CarVM.Car.SellerName = User.Identity.Name;  // Use User.Identity.Name for Username
-            CarVM.Car.SellerEmail = User.FindFirst(ClaimTypes.Email)?.Value;  // Use Email claim
-
-
-            // Add the car to the database
-            vroomDbContext.Add(this.CarVM.Car);
+            // Add car to database
+            vroomDbContext.Add(CarVM.Car);
             await vroomDbContext.SaveChangesAsync();
 
             // Redirect based on role
-            if (User.IsInRole("Admin"))
-            {
-                return RedirectToAction(nameof(AdminIndex));  // Admin redirects to the general Index page
-            }
-            else
-            {
-                return RedirectToAction(nameof(ExecutiveView));  // Executive redirects to ExecutiveView page
-            }
+            return User.IsInRole("Admin") ? RedirectToAction(nameof(AdminIndex)) : RedirectToAction(nameof(ExecutiveView));
         }
+
 
 
         // Action for Executives to Edit an Existing Car

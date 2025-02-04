@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MbX2eHp9tYjq4HgYrBfjNgZ1sSmYWfRB+82j7GNbaGg=",
+  "Hash": "gFLRkBAuEiqKJW50YtJQmHJqHVnJ6839GUPtsK8psrM=",
   "Source": "Cars",
   "BasePath": "_content/Cars",
   "Mode": "Default",
@@ -1383,6 +1383,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bike\\9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png",
+      "SourceId": "Cars",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\",
+      "BasePath": "_content/Cars",
+      "RelativePath": "images/da66f4b3-dc61-4227-8a8a-f47df4065208.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png"
     },
     {
       "Identity": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\js\\main.js",

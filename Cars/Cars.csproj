@@ -8,9 +8,13 @@
 
   <ItemGroup>
     <Compile Remove="Models\NewFolder\**" />
+    <Compile Remove="wwwroot\images\Car\**" />
     <Content Remove="Models\NewFolder\**" />
+    <Content Remove="wwwroot\images\Car\**" />
     <EmbeddedResource Remove="Models\NewFolder\**" />
+    <EmbeddedResource Remove="wwwroot\images\Car\**" />
     <None Remove="Models\NewFolder\**" />
+    <None Remove="wwwroot\images\Car\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -222,9 +226,6 @@
     <Content Update="wwwroot\lib\vendor\bootstrap-icons\bootstrap-icons.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="wwwroot\images\Car\" />
   </ItemGroup>
 
 

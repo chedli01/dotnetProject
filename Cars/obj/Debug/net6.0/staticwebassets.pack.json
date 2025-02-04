@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\bike\\9.jpg"
     },
     {
+      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png",
+      "PackagePath": "staticwebassets\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png"
+    },
+    {
       "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
