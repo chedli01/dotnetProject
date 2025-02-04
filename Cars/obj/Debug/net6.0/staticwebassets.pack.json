@@ -1,368 +1,376 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Cars.bundle.scp.css"
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cars.3pxad7t3im.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\2.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\3.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\5.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\7.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\8.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\9.jpg",
       "PackagePath": "staticwebassets\\images\\bike\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png",
       "PackagePath": "staticwebassets\\images\\da66f4b3-dc61-4227-8a8a-f47df4065208.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\fabb5d4b-85e7-46d6-9bcb-dd90d9ecebff.png",
+      "PackagePath": "staticwebassets\\images\\fabb5d4b-85e7-46d6-9bcb-dd90d9ecebff.png"
+    },
+    {
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\add.png",
       "PackagePath": "staticwebassets\\lib\\images\\add.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\front-end.png",
       "PackagePath": "staticwebassets\\lib\\images\\front-end.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\gear.png",
       "PackagePath": "staticwebassets\\lib\\images\\gear.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\handshake.png",
       "PackagePath": "staticwebassets\\lib\\images\\handshake.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\location.png",
       "PackagePath": "staticwebassets\\lib\\images\\location.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\logo.png",
       "PackagePath": "staticwebassets\\lib\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\point.png",
       "PackagePath": "staticwebassets\\lib\\images\\point.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-1.jpg",
       "PackagePath": "staticwebassets\\lib\\images\\portfolio\\classic-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-2.jpg",
       "PackagePath": "staticwebassets\\lib\\images\\portfolio\\classic-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\classic-4.jpg",
       "PackagePath": "staticwebassets\\lib\\images\\portfolio\\classic-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-1.jpg",
       "PackagePath": "staticwebassets\\lib\\images\\portfolio\\vespa-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\portfolio\\vespa-2.jpg",
       "PackagePath": "staticwebassets\\lib\\images\\portfolio\\vespa-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\profile.png",
       "PackagePath": "staticwebassets\\lib\\images\\profile.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\search.png",
       "PackagePath": "staticwebassets\\lib\\images\\search.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\shutdown.png",
       "PackagePath": "staticwebassets\\lib\\images\\shutdown.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\user.png",
       "PackagePath": "staticwebassets\\lib\\images\\user.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\why-us.png",
       "PackagePath": "staticwebassets\\lib\\images\\why-us.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\images\\x.png",
       "PackagePath": "staticwebassets\\lib\\images\\x.png"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\Yasmine Sassi\\Source\\Repos\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
+      "Id": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\lib\\videos\\Tour.mp4",
       "PackagePath": "staticwebassets\\lib\\videos\\Tour.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cars.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cars.Microsoft.AspNetCore.StaticWebAssets.props",
