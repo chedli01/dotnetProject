@@ -185,32 +185,33 @@ namespace Cars.Controllers
         [Authorize(Roles = "Executive,Admin")]
         [HttpPost, ActionName("Create")]
         [HttpPost]
-        public async Task<IActionResult> CreatePost(CarViewModel CarVM, IFormFile file)
+        public async Task<IActionResult> CreatePost(CarViewModel CarVM)
         {
-            if (file != null && file.Length > 0)
-            {
-                // Define folder to store images
-                string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
+            // if (file != null && file.Length > 0)
+            // {
+            //     // Define folder to store images
+            //     string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
 
-                // Ensure the directory exists
-                if (!Directory.Exists(uploadsFolder))
-                {
-                    Directory.CreateDirectory(uploadsFolder);
-                }
+            //     // Ensure the directory exists
+            //     if (!Directory.Exists(uploadsFolder))
+            //     {
+            //         Directory.CreateDirectory(uploadsFolder);
+            //     }
 
-                // Generate unique filename
-                string uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+            //     // Generate unique filename
+            //     string uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+            //     string filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
-                // Save file
-                using (var fileStream = new FileStream(filePath, FileMode.Create))
-                {
-                    await file.CopyToAsync(fileStream);
-                }
+            //     // Save file
+            //     using (var fileStream = new FileStream(filePath, FileMode.Create))
+            //     {
+            //         await file.CopyToAsync(fileStream);
+            //     }
 
-                // Save path in model
-                CarVM.Car.ImagePath = "/images/" + uniqueFileName;
-            }
+            //     // Save path in model
+            //     CarVM.Car.ImagePath = "/images/" + uniqueFileName;
+            // }
+
 
             // Assign the current user's info
             CarVM.Car.SellerName = User.Identity.Name;
@@ -342,6 +343,9 @@ namespace Cars.Controllers
         }
         var user = vroomDbContext.ApplicationUsers.FirstOrDefault(c => c.UserName == buyerEmail);
         var email = user?.Email;  // This will fetch the email if the user is found
+        if(car.SellerEmail==email){
+            return RedirectToAction("Fail", "Home");;
+        }
 
 
         // Call the email sending function

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "owx3G/erxT7FdVB3WdTh+ezShcgnSv2XlwPogMO/OJ8=",
+  "Hash": "M23SQb7AuAywKte+OCjjjZ3KnZR0vNRnvUbKniDemDI=",
   "Source": "Cars",
   "BasePath": "_content/Cars",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif",
+      "SourceId": "Cars",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\",
+      "BasePath": "_content/Cars",
+      "RelativePath": "images/a5323da9-b1f5-43d9-bfda-bd6df176e019#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wr8eapn1pb",
+      "Integrity": "FN7dCrZqDTXkXXcNNpC+v5wRsC1aaK3QQnIgyu+Gd34=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif"
     },
     {
       "Identity": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\bike\\1.jpg",
@@ -5858,6 +5879,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FN7dCrZqDTXkXXcNNpC+v5wRsC1aaK3QQnIgyu+Gd34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FN7dCrZqDTXkXXcNNpC+v5wRsC1aaK3QQnIgyu+Gd34="
+        }
+      ]
+    },
+    {
+      "Route": "images/a5323da9-b1f5-43d9-bfda-bd6df176e019.wr8eapn1pb.jfif",
+      "AssetFile": "C:\\Users\\GMI\\Desktop\\new\\dotnetProject\\Cars\\wwwroot\\images\\a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FN7dCrZqDTXkXXcNNpC+v5wRsC1aaK3QQnIgyu+Gd34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 18:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wr8eapn1pb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a5323da9-b1f5-43d9-bfda-bd6df176e019.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FN7dCrZqDTXkXXcNNpC+v5wRsC1aaK3QQnIgyu+Gd34="
         }
       ]
     },

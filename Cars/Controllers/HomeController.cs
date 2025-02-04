@@ -49,5 +49,9 @@ namespace Cars.Controllers
         {
             return View();
         }
+        public IActionResult Fail()
+        {
+            return View();
+        }
     }
 }
